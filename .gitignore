@@ -1,5 +1,9 @@
 # Created by https://www.gitignore.io
 
+### Personal ignores ###
+
+memo.txt
+
 ### OSX ###
 .DS_Store
 .AppleDouble
